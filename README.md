@@ -1,7 +1,7 @@
 ## 👋 Olá! Bem-vindo ao meu perfil do GitHub!
 
 🌟 Sobre mim:<br>
-Sou Maikon Schafranski, um estudante de Análise e Desenvolvimento de Sistemas na faculdade Uniguairaca. Tenho interesse tanto no desenvolvimento mobile quanto no desenvolvimento web, também tenho foco em tecnologias como Java e Spring. Sempre estou em busca de novos desafios que possam aprimorar minhas habilidades e me ajudar a crescer como desenvolvedor.
+Sou Maikon Schafranski, estudante de Análise e Desenvolvimento de Sistemas na faculdade Uniguairaca. Tenho interesse tanto no desenvolvimento mobile quanto no desenvolvimento web, também tenho foco em tecnologias como Java e Spring. Sempre estou em busca de novos desafios que possam aprimorar minhas habilidades e me ajudar a crescer como desenvolvedor.
 
 💻 Experiência:<br>
 Embora ainda não tenha experiência profissional trabalhando na área, possuo um bom conhecimento teórico e prático em desenvolvimento web, mobile e Java/Spring.
