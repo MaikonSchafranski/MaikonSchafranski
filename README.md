@@ -12,7 +12,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade U
 💻 Linguagens e Tecnologias:<br>
 Possuo habilidades em linguagens como Angular, React, Ionic, Java e Spring, bem como conhecimento prático em sua implementação para o desenvolvimento web e mobile. Minha experiência com essas tecnologias me permite criar aplicativos inovadores e interfaces de usuário intuitivas para resolver problemas do mundo real.
 
-🔗 Conexões:<br>
+🔗 Contato:<br>
 WhatsApp: (42) 999985987<br>
 Instagram: https://www.instagram.com/maikon.schafranski/<br>
 E-mail: maikonschfranski12@gmail.com<br>
