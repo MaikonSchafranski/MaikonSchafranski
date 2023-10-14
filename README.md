@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Olá! Bem-vindo ao meu perfil do GitHub!
 
-<!--
-**MaikonSchafranski/MaikonSchafranski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Sobre mim:
+Sou Maikon Schafranski, um estudante de Análise e Desenvolvimento de Sistemas na faculdade Uniguairaca. Tenho interesse tanto no desenvolvimento mobile quanto no desenvolvimento web, também tenho foco em tecnologias como Java e Spring. Sempre estou em busca de novos desafios que possam aprimorar minhas habilidades e me ajudar a crescer como desenvolvedor.
 
-Here are some ideas to get you started:
+💻 Experiência:
+Embora ainda não tenha experiência profissional trabalhando na área, possuo um bom conhecimento teórico e prático em desenvolvimento web, mobile e Java/Spring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Educação:
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade Uniguairaca.
+
+💻 Linguagens e Tecnologias:
+Possuo habilidades em linguagens como Angular, React, Ionic, Java e Spring, bem como conhecimento prático em sua implementação para o desenvolvimento web e mobile. Minha experiência com essas tecnologias me permite criar aplicativos inovadores e interfaces de usuário intuitivas para resolver problemas do mundo real.
+
+🔗 Conexões:
+WhatsApp: (42) 999985987
+Instagram: [https://www.instagram.com/maikon.schafranski/]
+E-mail: [maikonschfranski12@gmail.com]
