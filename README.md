@@ -21,6 +21,6 @@
 </div><br/>
 
 ## Projetos
-- [Byte Shop - Next JS (em desenvolvimento)](https://github.com/MaikonSchafranski/byte-shop)
+- [Byte Shop - Next JS (em breve)](https://github.com/MaikonSchafranski/byte-shop)
 - [Pic Pay Simplificado Back End - Spring](https://github.com/MaikonSchafranski/pic-pay-simplificado-back-end)
 - [Pic Pay Simplificado Front End - React JS](https://github.com/MaikonSchafranski/pic-pay-simplificado-front-end)
