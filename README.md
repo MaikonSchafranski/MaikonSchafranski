@@ -1,18 +1,24 @@
-## 👋 Olá! Bem-vindo ao meu perfil do GitHub!
+## Olá! Eu sou o Maikon Schafranski 🖐️
 
-🌟 Sobre mim:<br>
-Sou Maikon Schafranski, estudante de Análise e Desenvolvimento de Sistemas na faculdade Uniguairaca. Tenho interesse tanto back-end quanto no ront-end. Sempre estou em busca de novos desafios que possam aprimorar minhas habilidades e me ajudar a crescer como desenvolvedor.
+[![Insagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maikonschafranski_/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maikon.schafranski.771?mibextid=ibOpuV)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maikon-schafranski-3414372ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-💻 Experiência:<br>
-Embora ainda não tenha experiência profissional trabalhando na área, possuo um bom conhecimento teórico e prático em desenvolvimento web, mobile e Java/Spring.
+![Maikon GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikonSchafranski&show_icons=true&theme=radical)
 
-📚 Educação:<br>
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade Uniguairaca.
+## Tecnologias que eu uso no meu dia
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="JavaStript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="React JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img align="center" alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
 
-💻 Linguagens e Tecnologias:<br>
-Possuo habilidades em linguagens como Angular, React, Ionic, Java e Spring, bem como conhecimento prático em sua implementação para o desenvolvimento web e mobile. Minha experiência com essas tecnologias me permite criar aplicativos inovadores e interfaces de usuário intuitivas para resolver problemas do mundo real.
-
-🔗 Contato:<br>
-WhatsApp: (42) 999985987<br>
-Instagram: https://www.instagram.com/maikon.schafranski/<br>
-E-mail: maikonschfranski12@gmail.com<br>
+## Projetos
+- [Byte Shop - Next JS (em desenvolvimento)](https://github.com/MaikonSchafranski/byte-shop)
+- [Pic Pay Simplificado Back End - Spring](https://github.com/MaikonSchafranski/pic-pay-simplificado-back-end)
+- [Pic Pay Simplificado Front End - React JS](https://github.com/MaikonSchafranski/pic-pay-simplificado-front-end)
